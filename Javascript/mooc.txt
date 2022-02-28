@@ -1,1 +1,3 @@
-Je suis en MOOC d'automisation de tests
+Je suis en MOOC d'automisation de tests 
+
+Ceci fichier sera partagé sur Github
